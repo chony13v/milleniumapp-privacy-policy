@@ -1,43 +1,70 @@
 # Privacy Policy
 
-**Effective Date:** March 28, 2025
+**Effective Date:** April 4, 2025
 
-This application was developed in collaboration with the City Council of Riobamba. The primary purpose of the app is to promote public services, events, and civic engagement within Riobamba city.
+This Privacy Policy describes how MILLENIUMFS S.A.S. collects, uses, and protects the personal information of users of our mobile application, which is designed to support the training and development of young football players.
 
-## Information Collection and Use
+## 1. Information We Collect
 
-We do not collect any personally identifiable information directly from users.
+We may collect the following personal information from users and their parents or legal guardians:
 
-However, this app may use third-party services that collect information used to identify you. These may include:
-- Google AdMob (for displaying ads)
-- Google Firebase (for analytics and performance monitoring)
+- Full name of the minor
+- Date of birth
+- Relevant medical information
+- Full name of parent/guardian
+- Contact information (phone and email)
+- Club or team affiliation (if applicable)
 
-These third-party services may collect information such as your device type, operating system, general location, and usage patterns, which are used solely to improve the app experience and provide relevant content or ads.
+## 2. How We Use the Information
 
-## Advertising ID
+We use the information collected to:
 
-In compliance with Google Play policies, the app includes the Advertising ID (AD_ID) permission, which is used for ad personalization and measurement.
+- Manage registration and participation in training programs
+- Communicate with parents or guardians
+- Ensure the safety and well-being of all participants
+- Comply with legal and regulatory requirements
 
-You can reset or limit ad personalization in your device’s settings at any time.
+## 3. Sharing of Information
 
-## Children's Privacy
+We do not share your personal information with third parties, except when required by law, to protect our legal rights, or in a medical emergency.
 
-This app is suitable for users aged 13 and older. It is not specifically directed at children under the age of 13, and we do not knowingly collect personal information from children under 13.
+## 4. Data Security
 
-If we discover that we have inadvertently collected data from a child under 13, we will take appropriate steps to delete that information as quickly as possible.
+We implement technical and organizational measures to safeguard your personal information from unauthorized access, alteration, disclosure, or destruction.
 
-We encourage parents and guardians to supervise their children’s use of apps and online services.
+## 5. User Rights
 
-## Data Security
+In accordance with Ecuadorian law, users have the right to:
 
-We take appropriate measures to protect your data and ensure that it is not misused. However, please be aware that no method of transmission over the internet or method of electronic storage is 100% secure.
+- Access their personal data
+- Request correction of inaccurate or incomplete data
+- Request deletion of personal data
+- Object to the processing of personal data
 
-## Changes to This Policy
+To exercise these rights, please contact us at: **contacto@milleniumfs.com**
 
-We may update our Privacy Policy from time to time. Any changes will be posted on this page and are effective immediately after they are published.
+## 6. Data Retention
 
-## Contact Us
+We retain personal data only for as long as necessary to fulfill the purposes outlined above, or as required by law.
 
-If you have any questions or concerns about this Privacy Policy, feel free to contact us at:
+## 7. Third-Party Services
 
-📧 fausto@milleniumfs.com
+We may use third-party services such as **Google AdMob** to display advertisements. These services may collect non-personal data such as device identifiers and usage information. No personal data is shared without explicit user consent.
+
+## 8. Advertising
+
+This app displays ads to support its maintenance and development. We partner with ad networks that comply with child and teen privacy standards. If personalized advertising is used, we will request explicit consent from the user in accordance with applicable regulations.
+
+## 9. Children's Privacy
+
+This app is intended for users aged 13 and older. We do not knowingly collect personal information from children under 13. If we become aware that we have inadvertently collected data from a child under 13, we will delete such data promptly. We encourage parents to supervise their children’s use of apps and digital platforms.
+
+## 10. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any significant changes will be communicated via the app or by email.
+
+## 11. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+📧 **contacto@milleniumfs.com**
