@@ -67,4 +67,4 @@ We may update this Privacy Policy from time to time. Any significant changes wil
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-📧 **contacto@milleniumfs.com**
+📧 **info@milleniumfs.com**
