@@ -6,7 +6,7 @@ Esta Política de Privacidad describe cómo **MILLENIUMFS S.A.S.** recopila, uti
 
 ## 1. Introducción
 
-Estamos comprometidos con la protección de su privacidad y con garantizar que su información personal sea tratada de manera responsable y conforme a las leyes de protección de datos aplicables.
+Estamos comprometidos con la protección de su privacidad y con garantizar que su información personal sea tratada de manera responsable y conforme a las leyes de protección de datos aplicables. Esta app está destinada a adolescentes mayores de 13 años, y toda recolección de datos se realiza con autorización del padre o tutor legal.
 
 ## 2. Información que Recopilamos
 
@@ -17,7 +17,9 @@ Podemos recopilar la siguiente información personal de los usuarios y sus padre
 - Información médica relevante  
 - Nombre completo del padre/madre/tutor  
 - Información de contacto (teléfono y correo electrónico)  
-- Afiliación a club o equipo (si aplica)
+- Afiliación a club o equipo (si aplica)  
+- Datos de ubicación geográfica (cuando el usuario otorga permiso)  
+- Acceso a la cámara para tomar fotos relacionadas con el perfil o actividades
 
 ## 3. Uso de la Información
 
@@ -26,7 +28,9 @@ La información recopilada se utiliza para:
 - Gestionar el registro y participación en el programa  
 - Comunicarnos con padres o tutores  
 - Garantizar la seguridad y el bienestar de los participantes  
-- Cumplir con requisitos legales y regulatorios
+- Cumplir con requisitos legales y regulatorios  
+- Usar la cámara para capturar imágenes requeridas por el programa  
+- Obtener ubicación para mejorar la experiencia del usuario (ej. sugerencias por zona)
 
 ## 4. Compartición de la Información
 
@@ -45,7 +49,7 @@ De acuerdo con la legislación ecuatoriana, los usuarios tienen derecho a:
 - Solicitar la eliminación de sus datos  
 - Oponerse al tratamiento de sus datos
 
-Para ejercer estos derechos o realizar consultas, por favor contáctenos en: **contacto@milleniumfs.com**
+Para ejercer estos derechos o realizar consultas, por favor contáctenos en: **info@milleniumgd.com**
 
 ## 7. Retención de Datos
 
@@ -71,4 +75,4 @@ Nos reservamos el derecho de actualizar esta Política de Privacidad en cualquie
 ## 12. Contacto
 
 Si tiene preguntas o inquietudes sobre esta Política de Privacidad, por favor contáctenos en:  
-📧 **contacto@milleniumfs.com**
+📧 **info@milleniumgd.com**
