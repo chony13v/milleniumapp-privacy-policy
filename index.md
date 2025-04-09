@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** April 4, 2025
+**Effective Date:** April 9, 2025
 
 This Privacy Policy describes how **MILLENIUMFS S.A.S.** collects, uses, and protects the personal information of users of our mobile application, designed to support the training and development of young football players.
 
